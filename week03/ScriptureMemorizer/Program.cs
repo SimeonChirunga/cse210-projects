@@ -68,5 +68,6 @@ class Program
         scriptureLibrary.Add(new Scripture("Proverbs", 3, 5, 6, "Trust in the Lord with all thine heart; and lean not unto thine own understanding. In all thy ways acknowledge him, and he shall direct thy paths."));
         scriptureLibrary.Add(new Scripture("Mosiah", 2, 2, 3, "And they all cried with one voice, saying: Yea, we believe all the words which thou hast spoken unto us; and also, we know of their surety and truth, because of the Spirit of the Lord Omnipotent, which has wrought a mighty change in us, or in our hearts, that we have no more disposition to do evil, but to do good continually."));
         scriptureLibrary.Add(new Scripture("Mosiah", 2, 4, 6, "And again he saith: If my people shall keep my commandments, and walk in the paths of righteousness, I will establish my church among them, and they shall come forth out of darkness into light, according to the word. And now, behold, I say unto you, and I say it unto you with an exceeding great joy, my beloved brethren, that I have somewhat to declare unto you."));
+        scriptureLibrary.Add(new Scripture("Niphi", 3, 1, "And it came to pass that I, Nephi, returened from speacking with the Lord, to the tent of my fahter.."));
     }
 }
